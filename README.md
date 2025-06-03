@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on data analysis project
 - 📫 You can email me: [gakenyong@gmail.com]
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: My favorite exercise is dancing!
+- ⚡ Fun fact: I love to cook and process fresh fruits juice, its therapeutic for me!
 
 <!---
 GakeNyong/GakeNyong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
