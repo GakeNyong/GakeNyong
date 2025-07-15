@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GakeNyong
 - 👀 I’m interested in driving growth and improving business processes 
-- 🌱 I’m leveraging on data analysis tools to build data insights
+- 🌱 I’m leveraging on cloud technologies (AWS, AZURE, GCP), cybersecurity and data analysis tools to provide impactful business solutions
 - 💞️ I’m looking to collaborate on data analysis project
 - 📫 You can email me: [gakenyong@gmail.com]
 - 😄 Pronouns: She/Her
